@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-your-warm-essence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Breathe Your Warm Essence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-your-warm-essence/) |
+| **Get License** | [Commercial Licensing for Breathe Your Warm Essence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-your-warm-essence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire in the shadows we cast
+> Drawing you close, making every second last
+> Your breath on my skin is a quiet spark
+> Lighting me up in the quiet dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
